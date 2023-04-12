@@ -13,7 +13,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "pages/index.js"
+      "dest": "pages/_app.js"
     }
   ]
 }
